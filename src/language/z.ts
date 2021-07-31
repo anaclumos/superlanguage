@@ -1,6 +1,5 @@
-import { LanguageCode } from '../type'
-
-export const languages_z: LanguageCode[] = [
+import { languageCode } from '../type'
+export const language_z: languageCode[] = [
   {
     iso6393: 'zaa',
     name: { international: 'Sierra de Juárez Zapotec' },
@@ -1192,3 +1191,4 @@ export const languages_z: LanguageCode[] = [
     type: 'Living',
   },
 ]
+export default language

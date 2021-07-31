@@ -1,9 +1,8 @@
-// ISO 639 is the code for the language; en, ko, ja, etc.
-export type LanguageCode = {
+export type languageCode = {
   iso6391?: string
   iso6392?: string
   iso6393?: string
-  name: Name
+  name: name
   scope:
     | 'Collective'
     | 'Individual'
@@ -23,19 +22,18 @@ export type LanguageCode = {
     | 'Special'
 }
 
-// ISO 3166  is the code for the countries; US, KR, JP, etc.
-export type CountryCode = {
+export type countryCode = {
   code: string
-  name: Name
+  name: name
 }
 
-export type Name = {
+export type name = {
   international: string
   native?: string
   emoji?: string
 }
 
 export type Locale = {
-  language: LanguageCode
-  country: CountryCode
+  language: languageCode
+  country: countryCode
 }

@@ -1,6 +1,5 @@
-import { LanguageCode } from '../type'
-
-export const languages_b: LanguageCode[] = [
+import { languageCode } from '../type'
+const language: languageCode[] = [
   {
     iso6393: 'baa',
     name: { international: 'Babatana' },
@@ -3913,3 +3912,4 @@ export const languages_b: LanguageCode[] = [
     type: 'Living',
   },
 ]
+export default language

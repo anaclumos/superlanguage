@@ -1,4 +1,5 @@
-import { LanguageCode } from '../type'export const languages_q: LanguageCode[] = [
+import { languageCode } from '../type'
+const language: languageCode[] = [
   {
     iso6392: 'qaa',
     iso6393: 'qaa',
@@ -2682,14 +2683,6 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     scope: 'Local',
   },
   {
-    iso6391: '639-1',
-    iso6392: '639-2/639-5',
-    iso6393: '639-3',
-    name: { international: 'Language Name(s)' },
-    scope: 'Scope',
-    type: 'Language Type',
-  },
-  {
     iso6392: 'qrf',
     iso6393: 'qrf',
     name: { international: 'Reserved for local use' },
@@ -3128,28 +3121,24 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     scope: 'Local',
   },
   {
-    
     iso6393: 'qua',
     name: { international: 'Quapaw' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qub',
     name: { international: 'Huallaga Huánuco Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'quc',
     name: { international: "K'iche', Quiché" },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qud',
     name: {
       international: 'Calderón Highland Quichua',
@@ -3166,14 +3155,12 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'quf',
     name: { international: 'Lambayeque Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qug',
     name: {
       international: 'Chimborazo Highland Quichua',
@@ -3182,70 +3169,60 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'quh',
     name: { international: 'South Bolivian Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qui',
     name: { international: 'Quileute' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'quk',
     name: { international: 'Chachapoyas Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qul',
     name: { international: 'North Bolivian Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qum',
     name: { international: 'Sipacapense' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qun',
     name: { international: 'Quinault' },
     scope: 'Individual',
     type: 'Extinct',
   },
   {
-    
     iso6393: 'qup',
     name: { international: 'Southern Pastaza Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'quq',
     name: { international: 'Quinqui' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qur',
     name: { international: 'Yanahuanca Pasco Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qus',
     name: {
       international: 'Santiago del Estero Quichua',
@@ -3254,63 +3231,54 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'quv',
     name: { international: 'Sacapulteco' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'quw',
     name: { international: 'Tena Lowland Quichua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qux',
     name: { international: 'Yauyos Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'quy',
     name: { international: 'Ayacucho Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'quz',
     name: { international: 'Cusco Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qva',
     name: { international: 'Ambo-Pasco Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvc',
     name: { international: 'Cajamarca Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qve',
     name: { international: 'Eastern Apurímac Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvh',
     name: {
       international:
@@ -3320,7 +3288,6 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qvi',
     name: {
       international: 'Imbabura Highland Quichua',
@@ -3329,14 +3296,12 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qvj',
     name: { international: 'Loja Highland Quichua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvl',
     name: {
       international: 'Cajatambo North Lima Quechua',
@@ -3345,7 +3310,6 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qvm',
     name: {
       international: 'Margos-Yarowilca-Lauricocha Quechua',
@@ -3354,124 +3318,108 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qvn',
     name: { international: 'North Junín Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvo',
     name: { international: 'Napo Lowland Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvp',
     name: { international: 'Pacaraos Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvs',
     name: { international: 'San Martín Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvw',
     name: { international: 'Huaylla Wanca Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvy',
     name: { international: 'Queyu' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qvz',
     name: { international: 'Northern Pastaza Quichua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qwa',
     name: { international: 'Corongo Ancash Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qwc',
     name: { international: 'Classical Quechua' },
     scope: 'Individual',
     type: 'Historical',
   },
   {
-    iso6392: 'qwe',    name: { international: 'Quechuan (family)' },
+    iso6392: 'qwe',
+    name: { international: 'Quechuan (family)' },
     scope: 'Collective',
     type: 'Genetic',
   },
   {
-    
     iso6393: 'qwh',
     name: { international: 'Huaylas Ancash Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qwm',
     name: { international: 'Kuman (Russia)' },
     scope: 'Individual',
     type: 'Extinct',
   },
   {
-    
     iso6393: 'qws',
     name: { international: 'Sihuas Ancash Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qwt',
     name: { international: 'Kwalhioqua-Tlatskanai' },
     scope: 'Individual',
     type: 'Extinct',
   },
   {
-    
     iso6393: 'qxa',
     name: { international: 'Chiquián Ancash Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxc',
     name: { international: 'Chincha Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxh',
     name: { international: 'Panao Huánuco Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxl',
     name: {
       international: 'Salasaca Highland Quichua',
@@ -3480,7 +3428,6 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qxn',
     name: {
       international: 'Northern Conchucos Ancash Quechua',
@@ -3489,7 +3436,6 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qxo',
     name: {
       international: 'Southern Conchucos Ancash Quechua',
@@ -3498,35 +3444,30 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qxp',
     name: { international: 'Puno Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxq',
     name: { international: "Qashqa'i" },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxr',
     name: { international: 'Cañar Highland Quichua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxs',
     name: { international: 'Southern Qiang' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qxt',
     name: {
       international: 'Santa Ana de Tusi Pasco Quechua',
@@ -3535,7 +3476,6 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qxu',
     name: {
       international: 'Arequipa-La Unión Quechua',
@@ -3544,24 +3484,22 @@ import { LanguageCode } from '../type'export const languages_q: LanguageCode[] =
     type: 'Living',
   },
   {
-    
     iso6393: 'qxw',
     name: { international: 'Jauja Wanca Quechua' },
     scope: 'Individual',
     type: 'Living',
   },
   {
-    
     iso6393: 'qya',
     name: { international: 'Quenya' },
     scope: 'Individual',
     type: 'Constructed',
   },
   {
-    
     iso6393: 'qyp',
     name: { international: 'Quiripi' },
     scope: 'Individual',
     type: 'Extinct',
   },
 ]
+export default language
