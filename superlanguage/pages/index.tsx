@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import superlanguage from '../../src/language/sample'
+import { superlanguage } from '../../src/language/all'
 
 console.log(superlanguage)
 
