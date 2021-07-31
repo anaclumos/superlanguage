@@ -1,5 +1,5 @@
 import { languageCode } from '../type'
-export const language_z: languageCode[] = [
+const language: languageCode[] = [
   {
     iso6393: 'zaa',
     name: { international: 'Sierra de Juárez Zapotec' },
