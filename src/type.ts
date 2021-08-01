@@ -1,8 +1,8 @@
-export type languageCode = {
+export type LanguageCode = {
   iso6391?: string
   iso6392?: string
   iso6393?: string
-  name: name
+  name: Name
   scope:
     | 'Collective'
     | 'Individual'
@@ -22,18 +22,23 @@ export type languageCode = {
     | 'Special'
 }
 
-export type countryCode = {
-  code: string
-  name: name
+export type languageList = {
+  index: string
+  list: LanguageCode[]
 }
 
-export type name = {
+export type CountryCode = {
+  code: string
+  name: Name
+}
+
+export type Name = {
   international: string
   native?: string
   emoji?: string
 }
 
 export type Locale = {
-  language: languageCode
-  country: countryCode
+  language: LanguageCode
+  country: CountryCode
 }
