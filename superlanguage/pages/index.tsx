@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import { superlanguage } from '../../src/language/all'
+import { superlanguage } from '../../iso639/language/all'
 
 const Index = () => {
   return (
