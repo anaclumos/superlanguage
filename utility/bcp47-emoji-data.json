@@ -1,0 +1,1118 @@
+{
+  "af_NA": {
+    "locale": "Afrikaans (Namibia)",
+    "emoji": "🇳🇦"
+  },
+  "af_ZA": {
+    "locale": "Afrikaans (South Africa)",
+    "emoji": "🇿🇦"
+  },
+  "ak_GH": { "locale": "Akan (Ghana)", "emoji": "🇬🇭" },
+  "sq_AL": {
+    "locale": "Albanian (Albania)",
+    "emoji": "🇦🇱"
+  },
+  "sq_XK": { "locale": "Albanian (Kosovo)", "emoji": "🇽🇰" },
+  "sq_MK": {
+    "locale": "Albanian (Macedonia)",
+    "emoji": "🇲🇰"
+  },
+  "am_ET": {
+    "locale": "Amharic (Ethiopia)",
+    "emoji": "🇪🇹"
+  },
+  "ar_DZ": { "locale": "Arabic (Algeria)", "emoji": "🇩🇿" },
+  "ar_BH": { "locale": "Arabic (Bahrain)", "emoji": "🇧🇭" },
+  "ar_TD": { "locale": "Arabic (Chad)", "emoji": "🇹🇩" },
+  "ar_KM": { "locale": "Arabic (Comoros)", "emoji": "🇰🇲" },
+  "ar_DJ": { "locale": "Arabic (Djibouti)", "emoji": "🇩🇯" },
+  "ar_EG": { "locale": "Arabic (Egypt)", "emoji": "🇪🇬" },
+  "ar_ER": { "locale": "Arabic (Eritrea)", "emoji": "🇪🇷" },
+  "ar_IQ": { "locale": "Arabic (Iraq)", "emoji": "🇮🇶" },
+  "ar_IL": { "locale": "Arabic (Israel)", "emoji": "🇮🇱" },
+  "ar_JO": { "locale": "Arabic (Jordan)", "emoji": "🇯🇴" },
+  "ar_KW": { "locale": "Arabic (Kuwait)", "emoji": "🇰🇼" },
+  "ar_LB": { "locale": "Arabic (Lebanon)", "emoji": "🇱🇧" },
+  "ar_LY": { "locale": "Arabic (Libya)", "emoji": "🇱🇾" },
+  "ar_MR": {
+    "locale": "Arabic (Mauritania)",
+    "emoji": "🇲🇷"
+  },
+  "ar_MA": { "locale": "Arabic (Morocco)", "emoji": "🇲🇦" },
+  "ar_OM": { "locale": "Arabic (Oman)", "emoji": "🇴🇲" },
+  "ar_PS": {
+    "locale": "Arabic (Palestinian Territories)",
+    "emoji": "🇵🇸"
+  },
+  "ar_QA": { "locale": "Arabic (Qatar)", "emoji": "🇶🇦" },
+  "ar_SA": {
+    "locale": "Arabic (Saudi Arabia)",
+    "emoji": "🇸🇦"
+  },
+  "ar_SO": { "locale": "Arabic (Somalia)", "emoji": "🇸🇴" },
+  "ar_SS": {
+    "locale": "Arabic (South Sudan)",
+    "emoji": "🇸🇸"
+  },
+  "ar_SD": { "locale": "Arabic (Sudan)", "emoji": "🇸🇩" },
+  "ar_SY": { "locale": "Arabic (Syria)", "emoji": "🇸🇾" },
+  "ar_TN": { "locale": "Arabic (Tunisia)", "emoji": "🇹🇳" },
+  "ar_AE": {
+    "locale": "Arabic (United Arab Emirates)",
+    "emoji": "🇦🇪"
+  },
+  "ar_EH": {
+    "locale": "Arabic (Western Sahara)",
+    "emoji": "🇪🇭"
+  },
+  "ar_YE": { "locale": "Arabic (Yemen)", "emoji": "🇾🇪" },
+  "hy_AM": {
+    "locale": "Armenian (Armenia)",
+    "emoji": "🇦🇲"
+  },
+  "as_IN": { "locale": "Assamese (India)", "emoji": "🇮🇳" },
+  "az_AZ": {
+    "locale": "Azerbaijani (Azerbaijan)",
+    "emoji": "🇦🇿"
+  },
+  "az_Cyrl_AZ": {
+    "locale": "Azerbaijani (Cyrillic, Azerbaijan)",
+    "emoji": "🇦🇿"
+  },
+  "az_Latn_AZ": {
+    "locale": "Azerbaijani (Latin, Azerbaijan)",
+    "emoji": "🇦🇿"
+  },
+  "az_Latn": {
+    "locale": "Azerbaijani (Latin)",
+    "emoji": "🇹🇳"
+  },
+  "bm_Latn_ML": {
+    "locale": "Bambara (Latin, Mali)",
+    "emoji": "🇲🇱"
+  },
+  "bm_Latn": { "locale": "Bambara (Latin)", "emoji": "🇹🇳" },
+  "eu_ES": { "locale": "Basque (Spain)", "emoji": "🇪🇸" },
+  "be_BY": {
+    "locale": "Belarusian (Belarus)",
+    "emoji": "🇧🇾"
+  },
+  "bn_BD": {
+    "locale": "Bengali (Bangladesh)",
+    "emoji": "🇧🇩"
+  },
+  "bn_IN": { "locale": "Bengali (India)", "emoji": "🇮🇳" },
+  "bs_BA": {
+    "locale": "Bosnian (Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "bs_Cyrl_BA": {
+    "locale": "Bosnian (Cyrillic, Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "bs_Latn_BA": {
+    "locale": "Bosnian (Latin, Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "bs_Latn": { "locale": "Bosnian (Latin)", "emoji": "🇹🇳" },
+  "br_FR": { "locale": "Breton (France)", "emoji": "🇫🇷" },
+  "bg_BG": {
+    "locale": "Bulgarian (Bulgaria)",
+    "emoji": "🇧🇬"
+  },
+  "my_MM": {
+    "locale": "Burmese (Myanmar (Burma))",
+    "emoji": "🇲🇲"
+  },
+  "ca_AD": { "locale": "Catalan (Andorra)", "emoji": "🇦🇩" },
+  "ca_FR": { "locale": "Catalan (France)", "emoji": "🇫🇷" },
+  "ca_IT": { "locale": "Catalan (Italy)", "emoji": "🇮🇹" },
+  "ca_ES": { "locale": "Catalan (Spain)", "emoji": "🇪🇸" },
+  "zh_CN": { "locale": "Chinese (China)", "emoji": "🇨🇳" },
+  "zh_HK": {
+    "locale": "Chinese (Hong Kong SAR China)",
+    "emoji": "🇭🇰"
+  },
+  "zh_MO": {
+    "locale": "Chinese (Macau SAR China)",
+    "emoji": "🇲🇴"
+  },
+  "zh_Hans_CN": {
+    "locale": "Chinese (Simplified, China)",
+    "emoji": "🇨🇳"
+  },
+  "zh_Hans_HK": {
+    "locale": "Chinese (Simplified, Hong Kong SAR China)",
+    "emoji": "🇭🇰"
+  },
+  "zh_Hans_MO": {
+    "locale": "Chinese (Simplified, Macau SAR China)",
+    "emoji": "🇲🇴"
+  },
+  "zh_Hans_SG": {
+    "locale": "Chinese (Simplified, Singapore)",
+    "emoji": "🇸🇬"
+  },
+  "zh_SG": {
+    "locale": "Chinese (Singapore)",
+    "emoji": "🇸🇬"
+  },
+  "zh_TW": { "locale": "Chinese (Taiwan)", "emoji": "🇹🇼" },
+  "zh_Hant_HK": {
+    "locale": "Chinese (Traditional, Hong Kong SAR China)",
+    "emoji": "🇭🇰"
+  },
+  "zh_Hant_MO": {
+    "locale": "Chinese (Traditional, Macau SAR China)",
+    "emoji": "🇲🇴"
+  },
+  "zh_Hant_TW": {
+    "locale": "Chinese (Traditional, Taiwan)",
+    "emoji": "🇹🇼"
+  },
+  "kw_GB": {
+    "locale": "Cornish (United Kingdom)",
+    "emoji": "🇬🇧"
+  },
+  "hr_BA": {
+    "locale": "Croatian (Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "hr_HR": {
+    "locale": "Croatian (Croatia)",
+    "emoji": "🇭🇷"
+  },
+  "cs_CZ": {
+    "locale": "Czech (Czech Republic)",
+    "emoji": "🇨🇿"
+  },
+  "da_DK": { "locale": "Danish (Denmark)", "emoji": "🇩🇰" },
+  "da_GL": {
+    "locale": "Danish (Greenland)",
+    "emoji": "🇬🇱"
+  },
+  "nl_AW": { "locale": "Dutch (Aruba)", "emoji": "🇦🇼" },
+  "nl_BE": { "locale": "Dutch (Belgium)", "emoji": "🇧🇪" },
+  "nl_BQ": {
+    "locale": "Dutch (Caribbean Netherlands)",
+    "emoji": "🇧🇶"
+  },
+  "nl_CW": { "locale": "Dutch (Curaçao)", "emoji": "🇨🇼" },
+  "nl_NL": {
+    "locale": "Dutch (Netherlands)",
+    "emoji": "🇳🇱"
+  },
+  "nl_SX": {
+    "locale": "Dutch (Sint Maarten)",
+    "emoji": "🇸🇽"
+  },
+  "nl_SR": { "locale": "Dutch (Suriname)", "emoji": "🇸🇷" },
+  "dz_BT": { "locale": "Dzongkha (Bhutan)", "emoji": "🇧🇹" },
+  "en_AS": {
+    "locale": "English (American Samoa)",
+    "emoji": "🇦🇸"
+  },
+  "en_AI": {
+    "locale": "English (Anguilla)",
+    "emoji": "🇦🇮"
+  },
+  "en_AG": {
+    "locale": "English (Antigua & Barbuda)",
+    "emoji": "🇦🇬"
+  },
+  "en_AU": {
+    "locale": "English (Australia)",
+    "emoji": "🇦🇺"
+  },
+  "en_BS": { "locale": "English (Bahamas)", "emoji": "🇧🇸" },
+  "en_BB": {
+    "locale": "English (Barbados)",
+    "emoji": "🇧🇧"
+  },
+  "en_BE": { "locale": "English (Belgium)", "emoji": "🇧🇪" },
+  "en_BZ": { "locale": "English (Belize)", "emoji": "🇧🇿" },
+  "en_BM": { "locale": "English (Bermuda)", "emoji": "🇧🇲" },
+  "en_BW": {
+    "locale": "English (Botswana)",
+    "emoji": "🇧🇼"
+  },
+  "en_IO": {
+    "locale": "English (British Indian Ocean Territory)",
+    "emoji": "🇮🇴"
+  },
+  "en_VG": {
+    "locale": "English (British Virgin Islands)",
+    "emoji": "🇻🇬"
+  },
+  "en_CM": {
+    "locale": "English (Cameroon)",
+    "emoji": "🇨🇲"
+  },
+  "en_CA": { "locale": "English (Canada)", "emoji": "🇨🇦" },
+  "en_KY": {
+    "locale": "English (Cayman Islands)",
+    "emoji": "🇰🇾"
+  },
+  "en_CX": {
+    "locale": "English (Christmas Island)",
+    "emoji": "🇨🇽"
+  },
+  "en_CC": {
+    "locale": "English (Cocos (Keeling) Islands)",
+    "emoji": "🇨🇨"
+  },
+  "en_CK": {
+    "locale": "English (Cook Islands)",
+    "emoji": "🇨🇰"
+  },
+  "en_DM": {
+    "locale": "English (Dominica)",
+    "emoji": "🇩🇲"
+  },
+  "en_ER": { "locale": "English (Eritrea)", "emoji": "🇪🇷" },
+  "en_FK": {
+    "locale": "English (Falkland Islands)",
+    "emoji": "🇫🇰"
+  },
+  "en_FJ": { "locale": "English (Fiji)", "emoji": "🇫🇯" },
+  "en_GM": { "locale": "English (Gambia)", "emoji": "🇬🇲" },
+  "en_GH": { "locale": "English (Ghana)", "emoji": "🇬🇭" },
+  "en_GI": {
+    "locale": "English (Gibraltar)",
+    "emoji": "🇬🇮"
+  },
+  "en_GD": { "locale": "English (Grenada)", "emoji": "🇬🇩" },
+  "en_GU": { "locale": "English (Guam)", "emoji": "🇬🇺" },
+  "en_GG": {
+    "locale": "English (Guernsey)",
+    "emoji": "🇬🇬"
+  },
+  "en_GY": { "locale": "English (Guyana)", "emoji": "🇬🇾" },
+  "en_HK": {
+    "locale": "English (Hong Kong SAR China)",
+    "emoji": "🇭🇰"
+  },
+  "en_IN": { "locale": "English (India)", "emoji": "🇮🇳" },
+  "en_IE": { "locale": "English (Ireland)", "emoji": "🇮🇪" },
+  "en_IM": {
+    "locale": "English (Isle of Man)",
+    "emoji": "🇮🇲"
+  },
+  "en_JM": { "locale": "English (Jamaica)", "emoji": "🇯🇲" },
+  "en_JE": { "locale": "English (Jersey)", "emoji": "🇯🇪" },
+  "en_KE": { "locale": "English (Kenya)", "emoji": "🇰🇪" },
+  "en_KI": {
+    "locale": "English (Kiribati)",
+    "emoji": "🇰🇮"
+  },
+  "en_LS": { "locale": "English (Lesotho)", "emoji": "🇱🇸" },
+  "en_LR": { "locale": "English (Liberia)", "emoji": "🇱🇷" },
+  "en_MO": {
+    "locale": "English (Macau SAR China)",
+    "emoji": "🇲🇴"
+  },
+  "en_MG": {
+    "locale": "English (Madagascar)",
+    "emoji": "🇲🇬"
+  },
+  "en_MW": { "locale": "English (Malawi)", "emoji": "🇲🇼" },
+  "en_MY": {
+    "locale": "English (Malaysia)",
+    "emoji": "🇲🇾"
+  },
+  "en_MT": { "locale": "English (Malta)", "emoji": "🇲🇹" },
+  "en_MH": {
+    "locale": "English (Marshall Islands)",
+    "emoji": "🇲🇭"
+  },
+  "en_MU": {
+    "locale": "English (Mauritius)",
+    "emoji": "🇲🇺"
+  },
+  "en_FM": {
+    "locale": "English (Micronesia)",
+    "emoji": "🇫🇲"
+  },
+  "en_MS": {
+    "locale": "English (Montserrat)",
+    "emoji": "🇲🇸"
+  },
+  "en_NA": { "locale": "English (Namibia)", "emoji": "🇳🇦" },
+  "en_NR": { "locale": "English (Nauru)", "emoji": "🇳🇷" },
+  "en_NZ": {
+    "locale": "English (New Zealand)",
+    "emoji": "🇳🇿"
+  },
+  "en_NG": { "locale": "English (Nigeria)", "emoji": "🇳🇬" },
+  "en_NU": { "locale": "English (Niue)", "emoji": "🇳🇺" },
+  "en_NF": {
+    "locale": "English (Norfolk Island)",
+    "emoji": "🇳🇫"
+  },
+  "en_MP": {
+    "locale": "English (Northern Mariana Islands)",
+    "emoji": "🇲🇵"
+  },
+  "en_PK": {
+    "locale": "English (Pakistan)",
+    "emoji": "🇵🇰"
+  },
+  "en_PW": { "locale": "English (Palau)", "emoji": "🇵🇼" },
+  "en_PG": {
+    "locale": "English (Papua New Guinea)",
+    "emoji": "🇵🇬"
+  },
+  "en_PH": {
+    "locale": "English (Philippines)",
+    "emoji": "🇵🇭"
+  },
+  "en_PN": {
+    "locale": "English (Pitcairn Islands)",
+    "emoji": "🇵🇳"
+  },
+  "en_PR": {
+    "locale": "English (Puerto Rico)",
+    "emoji": "🇵🇷"
+  },
+  "en_RW": { "locale": "English (Rwanda)", "emoji": "🇷🇼" },
+  "en_WS": { "locale": "English (Samoa)", "emoji": "🇼🇸" },
+  "en_SC": {
+    "locale": "English (Seychelles)",
+    "emoji": "🇸🇨"
+  },
+  "en_SL": {
+    "locale": "English (Sierra Leone)",
+    "emoji": "🇸🇱"
+  },
+  "en_SG": {
+    "locale": "English (Singapore)",
+    "emoji": "🇸🇬"
+  },
+  "en_SX": {
+    "locale": "English (Sint Maarten)",
+    "emoji": "🇸🇽"
+  },
+  "en_SB": {
+    "locale": "English (Solomon Islands)",
+    "emoji": "🇸🇧"
+  },
+  "en_ZA": {
+    "locale": "English (South Africa)",
+    "emoji": "🇿🇦"
+  },
+  "en_SS": {
+    "locale": "English (South Sudan)",
+    "emoji": "🇸🇸"
+  },
+  "en_SH": {
+    "locale": "English (St. Helena)",
+    "emoji": "🇸🇭"
+  },
+  "en_KN": {
+    "locale": "English (St. Kitts & Nevis)",
+    "emoji": "🇰🇳"
+  },
+  "en_LC": {
+    "locale": "English (St. Lucia)",
+    "emoji": "🇱🇨"
+  },
+  "en_VC": {
+    "locale": "English (St. Vincent & Grenadines)",
+    "emoji": "🇻🇨"
+  },
+  "en_SD": { "locale": "English (Sudan)", "emoji": "🇸🇩" },
+  "en_SZ": {
+    "locale": "English (Swaziland)",
+    "emoji": "🇸🇿"
+  },
+  "en_TZ": {
+    "locale": "English (Tanzania)",
+    "emoji": "🇹🇿"
+  },
+  "en_TK": { "locale": "English (Tokelau)", "emoji": "🇹🇰" },
+  "en_TO": { "locale": "English (Tonga)", "emoji": "🇹🇴" },
+  "en_TT": {
+    "locale": "English (Trinidad & Tobago)",
+    "emoji": "🇹🇹"
+  },
+  "en_TC": {
+    "locale": "English (Turks & Caicos Islands)",
+    "emoji": "🇹🇨"
+  },
+  "en_TV": { "locale": "English (Tuvalu)", "emoji": "🇹🇻" },
+  "en_UM": {
+    "locale": "English (U.S. Outlying Islands)",
+    "emoji": "🇺🇲"
+  },
+  "en_VI": {
+    "locale": "English (U.S. Virgin Islands)",
+    "emoji": "🇻🇮"
+  },
+  "en_UG": { "locale": "English (Uganda)", "emoji": "🇺🇬" },
+  "en_GB": {
+    "locale": "English (United Kingdom)",
+    "emoji": "🇬🇧"
+  },
+  "en_US": {
+    "locale": "English (United States)",
+    "emoji": "🇺🇸"
+  },
+  "en_VU": { "locale": "English (Vanuatu)", "emoji": "🇻🇺" },
+  "en_ZM": { "locale": "English (Zambia)", "emoji": "🇿🇲" },
+  "en_ZW": {
+    "locale": "English (Zimbabwe)",
+    "emoji": "🇿🇼"
+  },
+  "et_EE": {
+    "locale": "Estonian (Estonia)",
+    "emoji": "🇪🇪"
+  },
+  "ee_GH": { "locale": "Ewe (Ghana)", "emoji": "🇬🇭" },
+  "ee_TG": { "locale": "Ewe (Togo)", "emoji": "🇹🇬" },
+  "fo_FO": {
+    "locale": "Faroese (Faroe Islands)",
+    "emoji": "🇫🇴"
+  },
+  "fi_FI": { "locale": "Finnish (Finland)", "emoji": "🇫🇮" },
+  "fr_DZ": { "locale": "French (Algeria)", "emoji": "🇩🇿" },
+  "fr_BE": { "locale": "French (Belgium)", "emoji": "🇧🇪" },
+  "fr_BJ": { "locale": "French (Benin)", "emoji": "🇧🇯" },
+  "fr_BF": {
+    "locale": "French (Burkina Faso)",
+    "emoji": "🇧🇫"
+  },
+  "fr_BI": { "locale": "French (Burundi)", "emoji": "🇧🇮" },
+  "fr_CM": { "locale": "French (Cameroon)", "emoji": "🇨🇲" },
+  "fr_CA": { "locale": "French (Canada)", "emoji": "🇨🇦" },
+  "fr_CF": {
+    "locale": "French (Central African Republic)",
+    "emoji": "🇨🇫"
+  },
+  "fr_TD": { "locale": "French (Chad)", "emoji": "🇹🇩" },
+  "fr_KM": { "locale": "French (Comoros)", "emoji": "🇰🇲" },
+  "fr_CG": {
+    "locale": "French (Congo - Brazzaville)",
+    "emoji": "🇨🇬"
+  },
+  "fr_CD": {
+    "locale": "French (Congo - Kinshasa)",
+    "emoji": "🇨🇩"
+  },
+  "fr_CI": {
+    "locale": "French (Côte d’Ivoire)",
+    "emoji": "🇨🇮"
+  },
+  "fr_DJ": { "locale": "French (Djibouti)", "emoji": "🇩🇯" },
+  "fr_GQ": {
+    "locale": "French (Equatorial Guinea)",
+    "emoji": "🇬🇶"
+  },
+  "fr_FR": { "locale": "French (France)", "emoji": "🇫🇷" },
+  "fr_GF": {
+    "locale": "French (French Guiana)",
+    "emoji": "🇬🇫"
+  },
+  "fr_PF": {
+    "locale": "French (French Polynesia)",
+    "emoji": "🇵🇫"
+  },
+  "fr_GA": { "locale": "French (Gabon)", "emoji": "🇬🇦" },
+  "fr_GP": {
+    "locale": "French (Guadeloupe)",
+    "emoji": "🇬🇵"
+  },
+  "fr_GN": { "locale": "French (Guinea)", "emoji": "🇬🇳" },
+  "fr_HT": { "locale": "French (Haiti)", "emoji": "🇭🇹" },
+  "fr_LU": {
+    "locale": "French (Luxembourg)",
+    "emoji": "🇱🇺"
+  },
+  "fr_MG": {
+    "locale": "French (Madagascar)",
+    "emoji": "🇲🇬"
+  },
+  "fr_ML": { "locale": "French (Mali)", "emoji": "🇲🇱" },
+  "fr_MQ": {
+    "locale": "French (Martinique)",
+    "emoji": "🇲🇶"
+  },
+  "fr_MR": {
+    "locale": "French (Mauritania)",
+    "emoji": "🇲🇷"
+  },
+  "fr_MU": {
+    "locale": "French (Mauritius)",
+    "emoji": "🇲🇺"
+  },
+  "fr_YT": { "locale": "French (Mayotte)", "emoji": "🇾🇹" },
+  "fr_MC": { "locale": "French (Monaco)", "emoji": "🇲🇨" },
+  "fr_MA": { "locale": "French (Morocco)", "emoji": "🇲🇦" },
+  "fr_NC": {
+    "locale": "French (New Caledonia)",
+    "emoji": "🇳🇨"
+  },
+  "fr_NE": { "locale": "French (Niger)", "emoji": "🇳🇪" },
+  "fr_RE": { "locale": "French (Réunion)", "emoji": "🇷🇪" },
+  "fr_RW": { "locale": "French (Rwanda)", "emoji": "🇷🇼" },
+  "fr_SN": { "locale": "French (Senegal)", "emoji": "🇸🇳" },
+  "fr_SC": {
+    "locale": "French (Seychelles)",
+    "emoji": "🇸🇨"
+  },
+  "fr_BL": {
+    "locale": "French (St. Barthélemy)",
+    "emoji": "🇧🇱"
+  },
+  "fr_MF": {
+    "locale": "French (St. Martin)",
+    "emoji": "🇲🇫"
+  },
+  "fr_PM": {
+    "locale": "French (St. Pierre & Miquelon)",
+    "emoji": "🇵🇲"
+  },
+  "fr_CH": {
+    "locale": "French (Switzerland)",
+    "emoji": "🇨🇭"
+  },
+  "fr_SY": { "locale": "French (Syria)", "emoji": "🇸🇾" },
+  "fr_TG": { "locale": "French (Togo)", "emoji": "🇹🇬" },
+  "fr_TN": { "locale": "French (Tunisia)", "emoji": "🇹🇳" },
+  "fr_VU": { "locale": "French (Vanuatu)", "emoji": "🇻🇺" },
+  "fr_WF": {
+    "locale": "French (Wallis & Futuna)",
+    "emoji": "🇼🇫"
+  },
+  "ff_CM": { "locale": "Fulah (Cameroon)", "emoji": "🇨🇲" },
+  "ff_GN": { "locale": "Fulah (Guinea)", "emoji": "🇬🇳" },
+  "ff_MR": {
+    "locale": "Fulah (Mauritania)",
+    "emoji": "🇲🇷"
+  },
+  "ff_SN": { "locale": "Fulah (Senegal)", "emoji": "🇸🇳" },
+  "gl_ES": { "locale": "Galician (Spain)", "emoji": "🇪🇸" },
+  "lg_UG": { "locale": "Ganda (Uganda)", "emoji": "🇺🇬" },
+  "ka_GE": {
+    "locale": "Georgian (Georgia)",
+    "emoji": "🇬🇪"
+  },
+  "de_AT": { "locale": "German (Austria)", "emoji": "🇦🇹" },
+  "de_BE": { "locale": "German (Belgium)", "emoji": "🇧🇪" },
+  "de_DE": { "locale": "German (Germany)", "emoji": "🇩🇪" },
+  "de_LI": {
+    "locale": "German (Liechtenstein)",
+    "emoji": "🇱🇮"
+  },
+  "de_LU": {
+    "locale": "German (Luxembourg)",
+    "emoji": "🇱🇺"
+  },
+  "de_CH": {
+    "locale": "German (Switzerland)",
+    "emoji": "🇨🇭"
+  },
+  "el_CY": { "locale": "Greek (Cyprus)", "emoji": "🇨🇾" },
+  "el_GR": { "locale": "Greek (Greece)", "emoji": "🇬🇷" },
+  "gu_IN": { "locale": "Gujarati (India)", "emoji": "🇮🇳" },
+  "ha_GH": { "locale": "Hausa (Ghana)", "emoji": "🇬🇭" },
+  "ha_Latn_GH": {
+    "locale": "Hausa (Latin, Ghana)",
+    "emoji": "🇬🇭"
+  },
+  "ha_Latn_NE": {
+    "locale": "Hausa (Latin, Niger)",
+    "emoji": "🇳🇪"
+  },
+  "ha_Latn_NG": {
+    "locale": "Hausa (Latin, Nigeria)",
+    "emoji": "🇳🇬"
+  },
+  "ha_Latn": { "locale": "Hausa (Latin)", "emoji": "🇹🇳" },
+  "ha_NE": { "locale": "Hausa (Niger)", "emoji": "🇳🇪" },
+  "ha_NG": { "locale": "Hausa (Nigeria)", "emoji": "🇳🇬" },
+  "he_IL": { "locale": "Hebrew (Israel)", "emoji": "🇮🇱" },
+  "hi_IN": { "locale": "Hindi (India)", "emoji": "🇮🇳" },
+  "hu_HU": {
+    "locale": "Hungarian (Hungary)",
+    "emoji": "🇭🇺"
+  },
+  "is_IS": {
+    "locale": "Icelandic (Iceland)",
+    "emoji": "🇮🇸"
+  },
+  "ig_NG": { "locale": "Igbo (Nigeria)", "emoji": "🇳🇬" },
+  "id_ID": {
+    "locale": "Indonesian (Indonesia)",
+    "emoji": "🇮🇩"
+  },
+  "ga_IE": { "locale": "Irish (Ireland)", "emoji": "🇮🇪" },
+  "it_IT": { "locale": "Italian (Italy)", "emoji": "🇮🇹" },
+  "it_SM": {
+    "locale": "Italian (San Marino)",
+    "emoji": "🇸🇲"
+  },
+  "it_CH": {
+    "locale": "Italian (Switzerland)",
+    "emoji": "🇨🇭"
+  },
+  "ja_JP": { "locale": "Japanese (Japan)", "emoji": "🇯🇵" },
+  "kl_GL": {
+    "locale": "Kalaallisut (Greenland)",
+    "emoji": "🇬🇱"
+  },
+  "kn_IN": { "locale": "Kannada (India)", "emoji": "🇮🇳" },
+  "ks_Arab_IN": {
+    "locale": "Kashmiri (Arabic, India)",
+    "emoji": "🇮🇳"
+  },
+  "ks_IN": { "locale": "Kashmiri (India)", "emoji": "🇮🇳" },
+  "kk_Cyrl_KZ": {
+    "locale": "Kazakh (Cyrillic, Kazakhstan)",
+    "emoji": "🇰🇿"
+  },
+  "kk_KZ": {
+    "locale": "Kazakh (Kazakhstan)",
+    "emoji": "🇰🇿"
+  },
+  "km_KH": { "locale": "Khmer (Cambodia)", "emoji": "🇰🇭" },
+  "ki_KE": { "locale": "Kikuyu (Kenya)", "emoji": "🇰🇪" },
+  "rw_RW": {
+    "locale": "Kinyarwanda (Rwanda)",
+    "emoji": "🇷🇼"
+  },
+  "ko_KP": {
+    "locale": "Korean (North Korea)",
+    "emoji": "🇰🇵"
+  },
+  "ko_KR": {
+    "locale": "Korean (South Korea)",
+    "emoji": "🇰🇷"
+  },
+  "ky_Cyrl_KG": {
+    "locale": "Kyrgyz (Cyrillic, Kyrgyzstan)",
+    "emoji": "🇰🇬"
+  },
+  "ky_KG": {
+    "locale": "Kyrgyz (Kyrgyzstan)",
+    "emoji": "🇰🇬"
+  },
+  "lo_LA": { "locale": "Lao (Laos)", "emoji": "🇱🇦" },
+  "lv_LV": { "locale": "Latvian (Latvia)", "emoji": "🇱🇻" },
+  "ln_AO": { "locale": "Lingala (Angola)", "emoji": "🇦🇴" },
+  "ln_CF": {
+    "locale": "Lingala (Central African Republic)",
+    "emoji": "🇨🇫"
+  },
+  "ln_CG": {
+    "locale": "Lingala (Congo - Brazzaville)",
+    "emoji": "🇨🇬"
+  },
+  "ln_CD": {
+    "locale": "Lingala (Congo - Kinshasa)",
+    "emoji": "🇨🇩"
+  },
+  "lt_LT": {
+    "locale": "Lithuanian (Lithuania)",
+    "emoji": "🇱🇹"
+  },
+  "lu_CD": {
+    "locale": "Luba-Katanga (Congo - Kinshasa)",
+    "emoji": "🇨🇩"
+  },
+  "lb_LU": {
+    "locale": "Luxembourgish (Luxembourg)",
+    "emoji": "🇱🇺"
+  },
+  "mk_MK": {
+    "locale": "Macedonian (Macedonia)",
+    "emoji": "🇲🇰"
+  },
+  "mg_MG": {
+    "locale": "Malagasy (Madagascar)",
+    "emoji": "🇲🇬"
+  },
+  "ms_BN": { "locale": "Malay (Brunei)", "emoji": "🇧🇳" },
+  "ms_Latn_BN": {
+    "locale": "Malay (Latin, Brunei)",
+    "emoji": "🇧🇳"
+  },
+  "ms_Latn_MY": {
+    "locale": "Malay (Latin, Malaysia)",
+    "emoji": "🇲🇾"
+  },
+  "ms_Latn_SG": {
+    "locale": "Malay (Latin, Singapore)",
+    "emoji": "🇸🇬"
+  },
+  "ms_Latn": { "locale": "Malay (Latin)", "emoji": "🇹🇳" },
+  "ms_MY": { "locale": "Malay (Malaysia)", "emoji": "🇲🇾" },
+  "ms_SG": { "locale": "Malay (Singapore)", "emoji": "🇸🇬" },
+  "ml_IN": { "locale": "Malayalam (India)", "emoji": "🇮🇳" },
+  "mt_MT": { "locale": "Maltese (Malta)", "emoji": "🇲🇹" },
+  "gv_IM": {
+    "locale": "Manx (Isle of Man)",
+    "emoji": "🇮🇲"
+  },
+  "mr_IN": { "locale": "Marathi (India)", "emoji": "🇮🇳" },
+  "mn_Cyrl_MN": {
+    "locale": "Mongolian (Cyrillic, Mongolia)",
+    "emoji": "🇲🇳"
+  },
+  "mn_MN": {
+    "locale": "Mongolian (Mongolia)",
+    "emoji": "🇲🇳"
+  },
+  "ne_IN": { "locale": "Nepali (India)", "emoji": "🇮🇳" },
+  "ne_NP": { "locale": "Nepali (Nepal)", "emoji": "🇳🇵" },
+  "nd_ZW": {
+    "locale": "North Ndebele (Zimbabwe)",
+    "emoji": "🇿🇼"
+  },
+  "se_FI": {
+    "locale": "Northern Sami (Finland)",
+    "emoji": "🇫🇮"
+  },
+  "se_NO": {
+    "locale": "Northern Sami (Norway)",
+    "emoji": "🇳🇴"
+  },
+  "se_SE": {
+    "locale": "Northern Sami (Sweden)",
+    "emoji": "🇸🇪"
+  },
+  "no_NO": {
+    "locale": "Norwegian (Norway)",
+    "emoji": "🇳🇴"
+  },
+  "nb_NO": {
+    "locale": "Norwegian Bokmål (Norway)",
+    "emoji": "🇳🇴"
+  },
+  "nb_SJ": {
+    "locale": "Norwegian Bokmål (Svalbard & Jan Mayen)",
+    "emoji": "🇸🇯"
+  },
+  "nn_NO": {
+    "locale": "Norwegian Nynorsk (Norway)",
+    "emoji": "🇳🇴"
+  },
+  "or_IN": { "locale": "Oriya (India)", "emoji": "🇮🇳" },
+  "om_ET": { "locale": "Oromo (Ethiopia)", "emoji": "🇪🇹" },
+  "om_KE": { "locale": "Oromo (Kenya)", "emoji": "🇰🇪" },
+  "os_GE": { "locale": "Ossetic (Georgia)", "emoji": "🇬🇪" },
+  "os_RU": { "locale": "Ossetic (Russia)", "emoji": "🇷🇺" },
+  "ps_AF": {
+    "locale": "Pashto (Afghanistan)",
+    "emoji": "🇦🇫"
+  },
+  "fa_AF": {
+    "locale": "Persian (Afghanistan)",
+    "emoji": "🇦🇫"
+  },
+  "fa_IR": { "locale": "Persian (Iran)", "emoji": "🇮🇷" },
+  "pl_PL": { "locale": "Polish (Poland)", "emoji": "🇵🇱" },
+  "pt_AO": {
+    "locale": "Portuguese (Angola)",
+    "emoji": "🇦🇴"
+  },
+  "pt_BR": {
+    "locale": "Portuguese (Brazil)",
+    "emoji": "🇧🇷"
+  },
+  "pt_CV": {
+    "locale": "Portuguese (Cape Verde)",
+    "emoji": "🇨🇻"
+  },
+  "pt_GW": {
+    "locale": "Portuguese (Guinea-Bissau)",
+    "emoji": "🇬🇼"
+  },
+  "pt_MO": {
+    "locale": "Portuguese (Macau SAR China)",
+    "emoji": "🇲🇴"
+  },
+  "pt_MZ": {
+    "locale": "Portuguese (Mozambique)",
+    "emoji": "🇲🇿"
+  },
+  "pt_PT": {
+    "locale": "Portuguese (Portugal)",
+    "emoji": "🇵🇹"
+  },
+  "pt_ST": {
+    "locale": "Portuguese (São Tomé & Príncipe)",
+    "emoji": "🇸🇹"
+  },
+  "pt_TL": {
+    "locale": "Portuguese (Timor-Leste)",
+    "emoji": "🇹🇱"
+  },
+  "pa_Arab_PK": {
+    "locale": "Punjabi (Arabic, Pakistan)",
+    "emoji": "🇵🇰"
+  },
+  "pa_Guru_IN": {
+    "locale": "Punjabi (Gurmukhi, India)",
+    "emoji": "🇮🇳"
+  },
+  "pa_Guru": {
+    "locale": "Punjabi (Gurmukhi)",
+    "emoji": "🇷🇺"
+  },
+  "pa_IN": { "locale": "Punjabi (India)", "emoji": "🇮🇳" },
+  "pa_PK": {
+    "locale": "Punjabi (Pakistan)",
+    "emoji": "🇵🇰"
+  },
+  "qu_BO": { "locale": "Quechua (Bolivia)", "emoji": "🇧🇴" },
+  "qu_EC": { "locale": "Quechua (Ecuador)", "emoji": "🇪🇨" },
+  "qu_PE": { "locale": "Quechua (Peru)", "emoji": "🇵🇪" },
+  "ro_MD": {
+    "locale": "Romanian (Moldova)",
+    "emoji": "🇲🇩"
+  },
+  "ro_RO": {
+    "locale": "Romanian (Romania)",
+    "emoji": "🇷🇴"
+  },
+  "rm_CH": {
+    "locale": "Romansh (Switzerland)",
+    "emoji": "🇨🇭"
+  },
+  "rn_BI": { "locale": "Rundi (Burundi)", "emoji": "🇧🇮" },
+  "ru_BY": { "locale": "Russian (Belarus)", "emoji": "🇧🇾" },
+  "ru_KZ": {
+    "locale": "Russian (Kazakhstan)",
+    "emoji": "🇰🇿"
+  },
+  "ru_KG": {
+    "locale": "Russian (Kyrgyzstan)",
+    "emoji": "🇰🇬"
+  },
+  "ru_MD": { "locale": "Russian (Moldova)", "emoji": "🇲🇩" },
+  "ru_RU": { "locale": "Russian (Russia)", "emoji": "🇷🇺" },
+  "ru_UA": { "locale": "Russian (Ukraine)", "emoji": "🇺🇦" },
+  "sg_CF": {
+    "locale": "Sango (Central African Republic)",
+    "emoji": "🇨🇫"
+  },
+  "gd_GB": {
+    "locale": "Scottish Gaelic (United Kingdom)",
+    "emoji": "🇬🇧"
+  },
+  "sr_BA": {
+    "locale": "Serbian (Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "sr_Cyrl_BA": {
+    "locale": "Serbian (Cyrillic, Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "sr_Cyrl_XK": {
+    "locale": "Serbian (Cyrillic, Kosovo)",
+    "emoji": "🇽🇰"
+  },
+  "sr_Cyrl_ME": {
+    "locale": "Serbian (Cyrillic, Montenegro)",
+    "emoji": "🇲🇪"
+  },
+  "sr_Cyrl_RS": {
+    "locale": "Serbian (Cyrillic, Serbia)",
+    "emoji": "🇷🇸"
+  },
+  "sr_XK": { "locale": "Serbian (Kosovo)", "emoji": "🇽🇰" },
+  "sr_Latn_BA": {
+    "locale": "Serbian (Latin, Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "sr_Latn_XK": {
+    "locale": "Serbian (Latin, Kosovo)",
+    "emoji": "🇽🇰"
+  },
+  "sr_Latn_ME": {
+    "locale": "Serbian (Latin, Montenegro)",
+    "emoji": "🇲🇪"
+  },
+  "sr_Latn_RS": {
+    "locale": "Serbian (Latin, Serbia)",
+    "emoji": "🇷🇸"
+  },
+  "sr_Latn": { "locale": "Serbian (Latin)", "emoji": "🇹🇳" },
+  "sr_ME": {
+    "locale": "Serbian (Montenegro)",
+    "emoji": "🇲🇪"
+  },
+  "sr_RS": { "locale": "Serbian (Serbia)", "emoji": "🇷🇸" },
+  "sh_BA": {
+    "locale": "Serbo-Croatian (Bosnia & Herzegovina)",
+    "emoji": "🇧🇦"
+  },
+  "sn_ZW": { "locale": "Shona (Zimbabwe)", "emoji": "🇿🇼" },
+  "ii_CN": {
+    "locale": "Sichuan Yi (China)",
+    "emoji": "🇨🇳"
+  },
+  "si_LK": {
+    "locale": "Sinhala (Sri Lanka)",
+    "emoji": "🇱🇰"
+  },
+  "sk_SK": { "locale": "Slovak (Slovakia)", "emoji": "🇸🇰" },
+  "sl_SI": {
+    "locale": "Slovenian (Slovenia)",
+    "emoji": "🇸🇮"
+  },
+  "so_DJ": { "locale": "Somali (Djibouti)", "emoji": "🇩🇯" },
+  "so_ET": { "locale": "Somali (Ethiopia)", "emoji": "🇪🇹" },
+  "so_KE": { "locale": "Somali (Kenya)", "emoji": "🇰🇪" },
+  "so_SO": { "locale": "Somali (Somalia)", "emoji": "🇸🇴" },
+  "es_AR": {
+    "locale": "Spanish (Argentina)",
+    "emoji": "🇦🇷"
+  },
+  "es_BO": { "locale": "Spanish (Bolivia)", "emoji": "🇧🇴" },
+  "es_CL": { "locale": "Spanish (Chile)", "emoji": "🇨🇱" },
+  "es_CO": {
+    "locale": "Spanish (Colombia)",
+    "emoji": "🇨🇴"
+  },
+  "es_CR": {
+    "locale": "Spanish (Costa Rica)",
+    "emoji": "🇨🇷"
+  },
+  "es_CU": { "locale": "Spanish (Cuba)", "emoji": "🇨🇺" },
+  "es_DO": {
+    "locale": "Spanish (Dominican Republic)",
+    "emoji": "🇩🇴"
+  },
+  "es_EC": { "locale": "Spanish (Ecuador)", "emoji": "🇪🇨" },
+  "es_SV": {
+    "locale": "Spanish (El Salvador)",
+    "emoji": "🇸🇻"
+  },
+  "es_GQ": {
+    "locale": "Spanish (Equatorial Guinea)",
+    "emoji": "🇬🇶"
+  },
+  "es_GT": {
+    "locale": "Spanish (Guatemala)",
+    "emoji": "🇬🇹"
+  },
+  "es_HN": {
+    "locale": "Spanish (Honduras)",
+    "emoji": "🇭🇳"
+  },
+  "es_MX": { "locale": "Spanish (Mexico)", "emoji": "🇲🇽" },
+  "es_NI": {
+    "locale": "Spanish (Nicaragua)",
+    "emoji": "🇳🇮"
+  },
+  "es_PA": { "locale": "Spanish (Panama)", "emoji": "🇵🇦" },
+  "es_PY": {
+    "locale": "Spanish (Paraguay)",
+    "emoji": "🇵🇾"
+  },
+  "es_PE": { "locale": "Spanish (Peru)", "emoji": "🇵🇪" },
+  "es_PH": {
+    "locale": "Spanish (Philippines)",
+    "emoji": "🇵🇭"
+  },
+  "es_PR": {
+    "locale": "Spanish (Puerto Rico)",
+    "emoji": "🇵🇷"
+  },
+  "es_ES": { "locale": "Spanish (Spain)", "emoji": "🇪🇸" },
+  "es_US": {
+    "locale": "Spanish (United States)",
+    "emoji": "🇺🇸"
+  },
+  "es_UY": { "locale": "Spanish (Uruguay)", "emoji": "🇺🇾" },
+  "es_VE": {
+    "locale": "Spanish (Venezuela)",
+    "emoji": "🇻🇪"
+  },
+  "sw_KE": { "locale": "Swahili (Kenya)", "emoji": "🇰🇪" },
+  "sw_TZ": {
+    "locale": "Swahili (Tanzania)",
+    "emoji": "🇹🇿"
+  },
+  "sw_UG": { "locale": "Swahili (Uganda)", "emoji": "🇺🇬" },
+  "sv_AX": {
+    "locale": "Swedish (Åland Islands)",
+    "emoji": "🇦🇽"
+  },
+  "sv_FI": { "locale": "Swedish (Finland)", "emoji": "🇫🇮" },
+  "sv_SE": { "locale": "Swedish (Sweden)", "emoji": "🇸🇪" },
+  "tl_PH": {
+    "locale": "Tagalog (Philippines)",
+    "emoji": "🇵🇭"
+  },
+  "ta_IN": { "locale": "Tamil (India)", "emoji": "🇮🇳" },
+  "ta_MY": { "locale": "Tamil (Malaysia)", "emoji": "🇲🇾" },
+  "ta_SG": { "locale": "Tamil (Singapore)", "emoji": "🇸🇬" },
+  "ta_LK": { "locale": "Tamil (Sri Lanka)", "emoji": "🇱🇰" },
+  "te_IN": { "locale": "Telugu (India)", "emoji": "🇮🇳" },
+  "th_TH": { "locale": "Thai (Thailand)", "emoji": "🇹🇭" },
+  "bo_CN": { "locale": "Tibetan (China)", "emoji": "🇨🇳" },
+  "bo_IN": { "locale": "Tibetan (India)", "emoji": "🇮🇳" },
+  "ti_ER": {
+    "locale": "Tigrinya (Eritrea)",
+    "emoji": "🇪🇷"
+  },
+  "ti_ET": {
+    "locale": "Tigrinya (Ethiopia)",
+    "emoji": "🇪🇹"
+  },
+  "to_TO": { "locale": "Tongan (Tonga)", "emoji": "🇹🇴" },
+  "tr_CY": { "locale": "Turkish (Cyprus)", "emoji": "🇨🇾" },
+  "tr_TR": { "locale": "Turkish (Turkey)", "emoji": "🇹🇷" },
+  "uk_UA": {
+    "locale": "Ukrainian (Ukraine)",
+    "emoji": "🇺🇦"
+  },
+  "ur_IN": { "locale": "Urdu (India)", "emoji": "🇮🇳" },
+  "ur_PK": { "locale": "Urdu (Pakistan)", "emoji": "🇵🇰" },
+  "ug_Arab_CN": {
+    "locale": "Uyghur (Arabic, China)",
+    "emoji": "🇨🇳"
+  },
+  "ug_CN": { "locale": "Uyghur (China)", "emoji": "🇨🇳" },
+  "uz_AF": {
+    "locale": "Uzbek (Afghanistan)",
+    "emoji": "🇦🇫"
+  },
+  "uz_Arab_AF": {
+    "locale": "Uzbek (Arabic, Afghanistan)",
+    "emoji": "🇦🇫"
+  },
+  "uz_Cyrl_UZ": {
+    "locale": "Uzbek (Cyrillic, Uzbekistan)",
+    "emoji": "🇺🇿"
+  },
+  "uz_Latn_UZ": {
+    "locale": "Uzbek (Latin, Uzbekistan)",
+    "emoji": "🇺🇿"
+  },
+  "uz_Latn": { "locale": "Uzbek (Latin)", "emoji": "🇹🇳" },
+  "uz_UZ": {
+    "locale": "Uzbek (Uzbekistan)",
+    "emoji": "🇺🇿"
+  },
+  "vi_VN": {
+    "locale": "Vietnamese (Vietnam)",
+    "emoji": "🇻🇳"
+  },
+  "cy_GB": {
+    "locale": "Welsh (United Kingdom)",
+    "emoji": "🇬🇧"
+  },
+  "fy_NL": {
+    "locale": "Western Frisian (Netherlands)",
+    "emoji": "🇳🇱"
+  },
+  "yo_BJ": { "locale": "Yoruba (Benin)", "emoji": "🇧🇯" },
+  "yo_NG": { "locale": "Yoruba (Nigeria)", "emoji": "🇳🇬" },
+  "zu_ZA": {
+    "locale": "Zulu (South Africa)",
+    "emoji": "🇿🇦"
+  }
+}
