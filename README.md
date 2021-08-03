@@ -1,12 +1,8 @@
 # [Superlanguage](https://superlanguage.vercel.app)
 
-## The complete list of all known languages
-
-- 인류가 알고 있는 모든 언어
-
 This is a complete list of all known languages — living and extinct, constructed and natural, genetic and local, all of them — recognized by the SIL International Organization. [SIL International is a faith-based nonprofit organization serving language communities worldwide](https://www.sil.org/).
 
-## The [Locale Name API](./api.json)
+## The [Locale Data API](./api.json)
 
 ```json
 {
@@ -41,8 +37,8 @@ JSON is sorted lexicographically.
 
 ### 2 (`ll`) and 5 (`ll_RR`) characters
 
-- `ll` are the ISO 639-1 code, such as `ko`, `ja`, `en`, `zh`, `th`, etc.
-- `RR` are the ISO 3166-1 code, such as `KR`, `JP`, `US`, `CN`, `TH`, etc.
+- `ll` are the [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) codes, such as `ko`, `ja`, `en`, `zh`, `th`, etc.
+- `RR` are the [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1) codes, such as `KR`, `JP`, `US`, `CN`, `TH`, etc.
 
 ```json
 {
@@ -97,7 +93,7 @@ JSON is sorted lexicographically.
 ### 7 (`ll_Tttt`) and 10 (`ll_Tttt_RR`) characters
 
 - 7 and 10 character codes will have language type definitions (`Tttt`).
-- `Tttt` are ISO 15924 codes, such as `Cyrl`, `Latn`, `Hans`, `Hant`, `Arab`, etc.
+- `Tttt` are [ISO 15924](https://en.wikipedia.org/wiki/ISO_15924) codes, such as `Cyrl`, `Latn`, `Hans`, `Hant`, `Arab`, etc.
 
 ```json
 {
