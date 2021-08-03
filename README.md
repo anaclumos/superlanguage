@@ -31,14 +31,28 @@ This is a complete list of all known languages — living and extinct, construct
 }
 ```
 
-## Examples
+### JSON API
 
-JSON is sorted lexicographically.
+- The full API:
+```
+https://raw.githubusercontent.com/anaclumos/language/main/api.json
+```
 
-### 2 (`ll`) and 5 (`ll_RR`) characters
+- If you only need the localized names:
+```
+https://raw.githubusercontent.com/anaclumos/language/main/bcp47.json
+```
 
-- `ll` are the [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) codes, such as `ko`, `ja`, `en`, `zh`, `th`, etc.
-- `RR` are the [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1) codes, such as `KR`, `JP`, `US`, `CN`, `TH`, etc.
+
+### Examples
+
+- JSON is sorted lexicographically.
+- The `ll`, `ll_RR`, `ll_Tttt`, `ll_Tttt_RR` codes are [IETF BCP 47 language tags](https://en.wikipedia.org/wiki/IETF_language_tag).
+
+#### 2 (`ll`) and 5 (`ll_RR`) characters
+
+- `ll` are [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) codes, such as `ko`, `ja`, `en`, `zh`, `th`, etc.
+- `RR` are [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1) codes, such as `KR`, `JP`, `US`, `CN`, `TH`, etc.
 
 ```json
 {
@@ -90,7 +104,7 @@ JSON is sorted lexicographically.
 }
 ```
 
-### 7 (`ll_Tttt`) and 10 (`ll_Tttt_RR`) characters
+#### 7 (`ll_Tttt`) and 10 (`ll_Tttt_RR`) characters
 
 - 7 and 10 character codes will have language type definitions (`Tttt`).
 - `Tttt` are [ISO 15924](https://en.wikipedia.org/wiki/ISO_15924) codes, such as `Cyrl`, `Latn`, `Hans`, `Hant`, `Arab`, etc.
