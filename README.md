@@ -34,15 +34,16 @@ This is a complete list of all known languages — living and extinct, construct
 ### JSON API
 
 - The full API:
+
 ```
-https://raw.githubusercontent.com/anaclumos/language/main/api.json
+https://raw.githubusercontent.com/anaclumos/superlanguage/main/api.json
 ```
 
 - If you only need the localized names:
-```
-https://raw.githubusercontent.com/anaclumos/language/main/bcp47.json
-```
 
+```
+https://raw.githubusercontent.com/anaclumos/superlanguage/main/bcp47.json
+```
 
 ### Examples
 
