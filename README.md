@@ -45,6 +45,12 @@ https://raw.githubusercontent.com/anaclumos/superlanguage/main/api.json
 https://raw.githubusercontent.com/anaclumos/superlanguage/main/bcp47.json
 ```
 
+- If you only need the names for specific language/region (replace ko_KR with appropriate BCP 47 tag):
+
+```
+https://raw.githubusercontent.com/anaclumos/superlanguage/main/bcp47/ko_KR.json
+```
+
 ### Examples
 
 - JSON is sorted lexicographically.
