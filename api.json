@@ -657,7 +657,7 @@
       "emoji": "🇦🇿",
       "international": "Azerbaijan",
       "iso3166": "AZ",
-      "native": " Азәрбајҹан"
+      "native": "Азәрбајҹан"
     },
     "summary": {
       "international": "Azerbaijani (Cyrillic, Azerbaijan)",
@@ -701,7 +701,7 @@
       "emoji": "🇦🇿",
       "international": "Azerbaijan",
       "iso3166": "AZ",
-      "native": " Azərbaycan"
+      "native": "Azərbaycan"
     },
     "summary": {
       "international": "Azerbaijani (Latin, Azerbaijan)",
@@ -812,7 +812,7 @@
       "emoji": "🇲🇱",
       "international": "Mali",
       "iso3166": "ML",
-      "native": " Mali"
+      "native": "Mali"
     },
     "summary": {
       "international": "Bambara (Latin, Mali)",
@@ -996,7 +996,7 @@
       "emoji": "🇧🇦",
       "international": "Bosnia & Herzegovina",
       "iso3166": "BA",
-      "native": " Босна и Херцеговина"
+      "native": "Босна и Херцеговина"
     },
     "summary": {
       "international": "Bosnian (Cyrillic, Bosnia & Herzegovina)",
@@ -1040,7 +1040,7 @@
       "emoji": "🇧🇦",
       "international": "Bosnia & Herzegovina",
       "iso3166": "BA",
-      "native": " Bosna i Hercegovina"
+      "native": "Bosna i Hercegovina"
     },
     "summary": {
       "international": "Bosnian (Latin, Bosnia & Herzegovina)",
@@ -4725,7 +4725,7 @@
       "emoji": "🇬🇭",
       "international": "Ghana",
       "iso3166": "GH",
-      "native": " Ghana"
+      "native": "Ghana"
     },
     "summary": {
       "international": "Hausa (Latin, Ghana)",
@@ -4747,7 +4747,7 @@
       "emoji": "🇳🇪",
       "international": "Niger",
       "iso3166": "NE",
-      "native": " Niger"
+      "native": "Niger"
     },
     "summary": {
       "international": "Hausa (Latin, Niger)",
@@ -4769,7 +4769,7 @@
       "emoji": "🇳🇬",
       "international": "Nigeria",
       "iso3166": "NG",
-      "native": " Nigeria"
+      "native": "Nigeria"
     },
     "summary": {
       "international": "Hausa (Latin, Nigeria)",
@@ -5267,7 +5267,7 @@
       "emoji": "🇰🇿",
       "international": "Kazakhstan",
       "iso3166": "KZ",
-      "native": " Қазақстан"
+      "native": "Қазақстан"
     },
     "summary": {
       "international": "Kazakh (Cyrillic, Kazakhstan)",
@@ -5462,7 +5462,7 @@
       "emoji": "🇮🇳",
       "international": "India",
       "iso3166": "IN",
-      "native": " ہِنٛدوستان"
+      "native": "ہِنٛدوستان"
     },
     "summary": {
       "international": "Kashmiri (Arabic, India)",
@@ -5556,7 +5556,7 @@
       "emoji": "🇰🇬",
       "international": "Kyrgyzstan",
       "iso3166": "KG",
-      "native": " Кыргызстан"
+      "native": "Кыргызстан"
     },
     "summary": {
       "international": "Kyrgyz (Cyrillic, Kyrgyzstan)",
@@ -5953,7 +5953,7 @@
       "emoji": "🇲🇳",
       "international": "Mongolia",
       "iso3166": "MN",
-      "native": " Монгол"
+      "native": "Монгол"
     },
     "summary": {
       "international": "Mongolian (Cyrillic, Mongolia)",
@@ -6070,7 +6070,7 @@
       "emoji": "🇧🇳",
       "international": "Brunei",
       "iso3166": "BN",
-      "native": " Brunei"
+      "native": "Brunei"
     },
     "summary": {
       "international": "Malay (Latin, Brunei)",
@@ -6092,7 +6092,7 @@
       "emoji": "🇲🇾",
       "international": "Malaysia",
       "iso3166": "MY",
-      "native": " Malaysia"
+      "native": "Malaysia"
     },
     "summary": {
       "international": "Malay (Latin, Malaysia)",
@@ -6114,7 +6114,7 @@
       "emoji": "🇸🇬",
       "international": "Singapore",
       "iso3166": "SG",
-      "native": " Singapura"
+      "native": "Singapura"
     },
     "summary": {
       "international": "Malay (Latin, Singapore)",
@@ -6675,7 +6675,7 @@
       "emoji": "🇵🇰",
       "international": "Pakistan",
       "iso3166": "PK",
-      "native": " پکستان"
+      "native": "پکستان"
     },
     "summary": {
       "international": "Punjabi (Arabic, Pakistan)",
@@ -6719,7 +6719,7 @@
       "emoji": "🇮🇳",
       "international": "India",
       "iso3166": "IN",
-      "native": " ਭਾਰਤ"
+      "native": "ਭਾਰਤ"
     },
     "summary": {
       "international": "Punjabi (Gurmukhi, India)",
@@ -7714,7 +7714,7 @@
       "emoji": "🇧🇦",
       "international": "Bosnia & Herzegovina",
       "iso3166": "BA",
-      "native": " Босна и Херцеговина"
+      "native": "Босна и Херцеговина"
     },
     "summary": {
       "international": "Serbian (Cyrillic, Bosnia & Herzegovina)",
@@ -7736,7 +7736,7 @@
       "emoji": "🇲🇪",
       "international": "Montenegro",
       "iso3166": "ME",
-      "native": " Црна Гора"
+      "native": "Црна Гора"
     },
     "summary": {
       "international": "Serbian (Cyrillic, Montenegro)",
@@ -7758,7 +7758,7 @@
       "emoji": "🇷🇸",
       "international": "Serbia",
       "iso3166": "RS",
-      "native": " Србија"
+      "native": "Србија"
     },
     "summary": {
       "international": "Serbian (Cyrillic, Serbia)",
@@ -7780,7 +7780,7 @@
       "emoji": "🇽🇰",
       "international": "Kosovo",
       "iso3166": "XK",
-      "native": " Косово"
+      "native": "Косово"
     },
     "summary": {
       "international": "Serbian (Cyrillic, Kosovo)",
@@ -7824,7 +7824,7 @@
       "emoji": "🇧🇦",
       "international": "Bosnia & Herzegovina",
       "iso3166": "BA",
-      "native": " Bosna i Hercegovina"
+      "native": "Bosna i Hercegovina"
     },
     "summary": {
       "international": "Serbian (Latin, Bosnia & Herzegovina)",
@@ -7846,7 +7846,7 @@
       "emoji": "🇲🇪",
       "international": "Montenegro",
       "iso3166": "ME",
-      "native": " Crna Gora"
+      "native": "Crna Gora"
     },
     "summary": {
       "international": "Serbian (Latin, Montenegro)",
@@ -7868,7 +7868,7 @@
       "emoji": "🇷🇸",
       "international": "Serbia",
       "iso3166": "RS",
-      "native": " Srbija"
+      "native": "Srbija"
     },
     "summary": {
       "international": "Serbian (Latin, Serbia)",
@@ -7890,7 +7890,7 @@
       "emoji": "🇽🇰",
       "international": "Kosovo",
       "iso3166": "XK",
-      "native": " Kosovo"
+      "native": "Kosovo"
     },
     "summary": {
       "international": "Serbian (Latin, Kosovo)",
@@ -8395,7 +8395,7 @@
       "emoji": "🇨🇳",
       "international": "China",
       "iso3166": "CN",
-      "native": " جۇڭگو"
+      "native": "جۇڭگو"
     },
     "summary": {
       "international": "Uyghur (Arabic, China)",
@@ -8551,7 +8551,7 @@
       "emoji": "🇦🇫",
       "international": "Afghanistan",
       "iso3166": "AF",
-      "native": " افغانستان"
+      "native": "افغانستان"
     },
     "summary": {
       "international": "Uzbek (Arabic, Afghanistan)",
@@ -8589,7 +8589,7 @@
       "emoji": "🇺🇿",
       "international": "Uzbekistan",
       "iso3166": "UZ",
-      "native": " Ўзбекистон"
+      "native": "Ўзбекистон"
     },
     "summary": {
       "international": "Uzbek (Cyrillic, Uzbekistan)",
@@ -8633,7 +8633,7 @@
       "emoji": "🇺🇿",
       "international": "Uzbekistan",
       "iso3166": "UZ",
-      "native": " Oʻzbekiston"
+      "native": "Oʻzbekiston"
     },
     "summary": {
       "international": "Uzbek (Latin, Uzbekistan)",
@@ -8817,7 +8817,7 @@
       "emoji": "🇨🇳",
       "international": "China",
       "iso3166": "CN",
-      "native": " 中国"
+      "native": "中国"
     },
     "summary": {
       "international": "Chinese (Simplified, China)",
@@ -8839,7 +8839,7 @@
       "emoji": "🇭🇰",
       "international": "Hong Kong SAR China",
       "iso3166": "HK",
-      "native": " 中国香港特别行政区"
+      "native": "中国香港特别行政区"
     },
     "summary": {
       "international": "Chinese (Simplified, Hong Kong SAR China)",
@@ -8861,7 +8861,7 @@
       "emoji": "🇲🇴",
       "international": "Macau SAR China",
       "iso3166": "MO",
-      "native": " 中国澳门特别行政区"
+      "native": "中国澳门特别行政区"
     },
     "summary": {
       "international": "Chinese (Simplified, Macau SAR China)",
@@ -8883,7 +8883,7 @@
       "emoji": "🇸🇬",
       "international": "Singapore",
       "iso3166": "SG",
-      "native": " 新加坡"
+      "native": "新加坡"
     },
     "summary": {
       "international": "Chinese (Simplified, Singapore)",
@@ -8921,7 +8921,7 @@
       "emoji": "🇭🇰",
       "international": "Hong Kong SAR China",
       "iso3166": "HK",
-      "native": " 中華人民共和國香港特別行政區"
+      "native": "中華人民共和國香港特別行政區"
     },
     "summary": {
       "international": "Chinese (Traditional, Hong Kong SAR China)",
@@ -8943,7 +8943,7 @@
       "emoji": "🇲🇴",
       "international": "Macau SAR China",
       "iso3166": "MO",
-      "native": " 中華人民共和國澳門特別行政區"
+      "native": "中華人民共和國澳門特別行政區"
     },
     "summary": {
       "international": "Chinese (Traditional, Macau SAR China)",
@@ -8965,7 +8965,7 @@
       "emoji": "🇹🇼",
       "international": "Taiwan",
       "iso3166": "TW",
-      "native": " 台灣"
+      "native": "台灣"
     },
     "summary": {
       "international": "Chinese (Traditional, Taiwan)",

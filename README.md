@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/anaclumos/superlanguage/main/bcp47.json
       "emoji": "🇭🇰",
       "international": "Hong Kong SAR China",
       "iso3166": "HK",
-      "native": " 中華人民共和國香港特別行政區"
+      "native": "中華人民共和國香港特別行政區"
     },
     "summary": {
       "international": "Chinese (Traditional, Hong Kong SAR China)",
